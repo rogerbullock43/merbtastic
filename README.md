@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
