@@ -1,1 +1,1 @@
-fix predict with class filter
+Explorer with LanceDB, Actions and Docs updates (#7487)
