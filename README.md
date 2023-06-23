@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
