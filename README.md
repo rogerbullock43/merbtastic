@@ -1,1 +1,1 @@
-fix resume training
+Fix PNNX ubuntu -> linux bug (#7050)
