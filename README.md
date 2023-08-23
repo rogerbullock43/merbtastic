@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
