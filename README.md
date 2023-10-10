@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
