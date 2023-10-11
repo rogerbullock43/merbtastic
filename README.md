@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Elaborate Train and Predict mode docs arguments (#8137)
