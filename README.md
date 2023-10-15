@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
