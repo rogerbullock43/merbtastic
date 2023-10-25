@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Add PR Summary step to Ultralytics Actions (#7675)
