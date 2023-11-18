@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Resize angle, count, and stage on keypoint number change (#7598)
