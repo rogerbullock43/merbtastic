@@ -1,1 +1,1 @@
-Reverse IoU threshold for NMS docs descriptions (#9151)
+Update CITATION.cff with cffinit corrections (#8658)
