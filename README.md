@@ -1,1 +1,1 @@
-fix val each epoch
+Pass callbacks to validator (#7320)
