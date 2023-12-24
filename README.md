@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+New HUB Cloud Training docs page (#8174)
