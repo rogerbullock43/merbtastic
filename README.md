@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+docs: update view-results-in-terminal.md (#66)
