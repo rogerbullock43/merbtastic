@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Add CoreML Docs Integrations Page (#8063)
