@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
