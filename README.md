@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
