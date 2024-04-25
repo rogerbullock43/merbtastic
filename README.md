@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
