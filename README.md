@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Fix TypeError in check_cfg() (#9245)
