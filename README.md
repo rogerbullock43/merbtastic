@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
