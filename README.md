@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Update pyproject.toml and Docs (#7274)
