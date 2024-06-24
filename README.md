@@ -1,1 +1,1 @@
-Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
+Hold failed upload metrics and upload with next upload metrics (#8513)
