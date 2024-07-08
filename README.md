@@ -1,1 +1,1 @@
-add logs
+fix predict with class filter
