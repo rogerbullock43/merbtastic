@@ -1,1 +1,1 @@
-Replace onnx2tf usage from CLI to Python (#8429)
+Add YOLOv8 LibTorch C++ inference example (#7090)
