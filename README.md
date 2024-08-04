@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
