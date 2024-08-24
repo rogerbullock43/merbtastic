@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Fix docker.yaml double-quote version bug (#7452)
