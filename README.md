@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Add YouTube iframe loading=lazy (#8001)
