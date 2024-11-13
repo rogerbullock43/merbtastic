@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+OBB: Fix plot_images (#7592)
